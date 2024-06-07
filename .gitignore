@@ -1,0 +1,13 @@
+*
+
+!src/
+!src/**
+
+!include/
+!include/**
+
+!docs/
+!docs/**
+
+!makefile
+!.gitignore
